@@ -1,4 +1,4 @@
-package gomoduleexample
+package go_module_example
 
 func Hello() string {
 	return "Hello WorldQ"
